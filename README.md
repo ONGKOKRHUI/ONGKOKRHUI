@@ -31,6 +31,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ONGKOKRHUI&theme=nightowl" alt="GitHub Streak Stats" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ONGKOKRHUI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ONGKOKRHUI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## Let's Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/kok-rhui-ong-9b2998269/" target="_blank" style="text-decoration: none;">
