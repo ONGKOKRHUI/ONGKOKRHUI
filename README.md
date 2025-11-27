@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **any freelance project**
 - 💬 Ask me about **my projects**, **my goals**
 - 📫 Email me at **kokrhui.ong@gmail.com**
-- 📄 Find me at [https://www.linkedin.com/in/kok-rhui-ong-9b2998269/](https://www.linkedin.com/in/kok-rhui-ong-9b2998269/)
+- 📄 Find me at **[https://www.linkedin.com/in/kok-rhui-ong-9b2998269/](https://www.linkedin.com/in/kok-rhui-ong-9b2998269/)**
 - ⚡ Fun fact: **Gymrat Pianist Coder and Pop Music Enthusiast**
 
 ## Languages and Tools 
