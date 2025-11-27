@@ -15,10 +15,10 @@
   </a>
 </p>
 
-## Working On
+## Actively Working On
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,docker,firebase,gcp,kafka,kubernetes,mongodb,mysql,supabase,tensorflow,terraform" alt="Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=azure,docker,firebase,gcp,kafka,kubernetes,mongodb,mysql,supabase,tensorflow,terraform" alt="Languages and Tools"/>
   </a>
 </p>
 
