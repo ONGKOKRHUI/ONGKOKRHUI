@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Vincent Ong 😃, Soon to be AI Engineer </h2>
+<h2 align="left">Hey, I'm Vincent Ong 😃, Passionate AI Engineer </h2>
 
 - 🔭 I’m currently working on **Agentic AI** and **MLOps** Projects
 - 🌱 I’m currently learning **Google ADK Framework** and **MLOps**
