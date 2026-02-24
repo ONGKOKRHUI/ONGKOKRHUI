@@ -1,7 +1,7 @@
 <h2 align="left">Hey, I'm Vincent Ong 😃, Passionate AI Engineer </h2>
 
-- 🔭 I’m currently working on **Agentic AI** and **MLOps** Projects
-- 🌱 I’m currently learning **Google ADK Framework** and **MLOps**
+- 🔭 I’m currently working on **Agentic AI** Projects
+- 🌱 I’m currently learning **Google ADK Framework**
 - 👯 I’m looking to collaborate on **any freelance project**
 - 💬 Ask me about **my projects**, **my goals**
 - 📫 Email me at **kokrhui.ong@gmail.com**
